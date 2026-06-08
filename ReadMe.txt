@@ -18,10 +18,10 @@ Files Included
 *JavaDoc Documentation
 
 *Video Link 1
-To be added
+https://www.loom.com/share/94878bf49bdc4b5494c28e4f4ee74909
 
 *Video Link 2
-To be added
+https://www.loom.com/share/502b636c060a4e18a08c683beeeb3f3c
 
 *GitHub Repository:
 https://github.com/nejlaybr/Milestone3
