@@ -1,24 +1,28 @@
 Nejla Yber
-
-CST-239 Milestone 2
-
+CST-239 Milestone 3
 Fantasy Game Store Program
 
-Description:
+Description
+
 This project is a console-based Fantasy Game Store application developed in Java. 
-Users can view products, purchase products, view available inventory, and exit the application. 
-The store inventory includes weapons, armor, and health items.
+Users can view products, purchase products, view the shopping cart, return the products, and exit the application. 
+The store inventory includes weapons, armor, and health items. 
+The application demonstrates object-oriented programming concepts such as inheritance, encapsulation, collections, and polymorphism.
 
-Files Included:
+Files Included
 
-Java Source Files
-UML Diagram
-Flowchart
-Program Screenshots
-JavaDoc Documentation
+*Java Source Files
+*UML Diagram
+*Flowchart
+*Program Screenshots
+*JavaDoc Documentation
 
-Video Link:1
-https://www.loom.com/share/0314f20740354073aedb821b0ba30096
+*Video Link 1
+To be added
 
-Video Link:2
-https://www.loom.com/share/eff47b7753e94868b909f63446124eff
+*Video Link 2
+To be added
+
+*GitHub Repository:
+https://github.com/nejlaybr/Milestone3
+
